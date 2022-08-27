@@ -1,0 +1,9 @@
+[general]
+project_name = 'Game on Old Engine'
+version = '0.0.1'
+
+[render]
+
+[render.window]
+width = 800
+height = 600
